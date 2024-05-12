@@ -1,6 +1,6 @@
 {
   "name": "updated-react-flying-item",
-  "version": "1.0",
+  "version": "1.0.2",
   "description": "NPM Library to make the selected item image seem to fly to top left corner (e.g: fly to cart icon)",
   "author": {
     "name": "TEMIYORES",
@@ -27,7 +27,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/plugin-syntax-import-attributes": "^7.23.3",

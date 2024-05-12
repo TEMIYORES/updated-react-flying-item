@@ -16,7 +16,7 @@
 ## Install
 
 ```bash
-npm install --save react-flying-item
+npm install --save updated-react-flying-item
 ```
 
 ## Customizable values props
